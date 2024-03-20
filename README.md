@@ -1,2 +1,2 @@
 # mysql_class
-a php class for mysql
+一个PHP的类，用来简化、规范化mysql数据的操作。（讲道理应该也可以轻松移植到其它数据库）
